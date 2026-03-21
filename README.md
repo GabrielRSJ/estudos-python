@@ -20,10 +20,12 @@ Comecei meus estudos em **fevereiro de 2026** e este é meu espaço para:
 - [x] Bibliotecas básicas (math)
 - [x] Strings (split, fatiamento)
 - [x] Loops (while, for)
+- [x] Tuplas
 
 ### 🔄 Em andamento
 - [ ] Listas e dicionários
 - [ ] Funções
+- [ ] Flask
 
 ### 📅 Próximos passos
 - [ ] Manipulação de arquivos
