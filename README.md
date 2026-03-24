@@ -25,6 +25,7 @@ Comecei meus estudos em **fevereiro de 2026** e este é meu espaço para:
 ### 🔄 Em andamento
 - [ ] Listas e dicionários
 - [ ] Funções
+- [ ] Poo
 - [ ] Flask
 
 ### 📅 Próximos passos
