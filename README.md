@@ -27,6 +27,7 @@ Comecei meus estudos em **fevereiro de 2026** e este é meu espaço para:
 - [ ] Funções
 - [ ] Poo
 - [ ] Flask
+- [ ] SQL
 
 ### 📅 Próximos passos
 - [ ] Manipulação de arquivos
