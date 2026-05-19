@@ -21,16 +21,17 @@ Comecei meus estudos em **fevereiro de 2026** e este é meu espaço para:
 - [x] Strings (split, fatiamento)
 - [x] Loops (while, for)
 - [x] Tuplas
+- [x] lista e dicionários 
+- [x] funções 
+- [x] Tratamento de erro
+- [x] Flask
+
 
 ### 🔄 Em andamento
-- [ ] Listas e dicionários
-- [ ] Funções
-- [ ] Poo
-- [ ] Flask
 - [ ] SQL
+- [ ] Poo
+- [ ] React
+
 
 ### 📅 Próximos passos
-- [ ] Manipulação de arquivos
-- [ ] Tratamento de erros (try/except)
-- [ ] Programação Orientada a Objetos
 - [ ] Projetos com interface gráfica (Tkinter)
